@@ -1,0 +1,33 @@
+html {
+  font-family: "Merriweather", serif;
+}
+
+main {
+  background-color: #f2f2f2;
+}
+
+}
+
+.year {
+  width: 7em;
+}
+
+.distance {
+  width: 6em;
+}
+
+.notes {
+  width: 16em;
+}
+
+table {
+  min-width: 50em;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .table-wrapper {
+    overflow: visible;
+  }
+
+}
