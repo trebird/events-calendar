@@ -1,5 +1,5 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 }
 
 table {
@@ -11,7 +11,7 @@ td, tr, th {
 }
 
 td {
-  height: 6em;
+  height: 8.7em;
 }
 
 .event-grey {
